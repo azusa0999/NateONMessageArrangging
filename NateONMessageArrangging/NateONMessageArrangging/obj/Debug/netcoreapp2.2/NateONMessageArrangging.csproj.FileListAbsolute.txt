@@ -15,7 +15,6 @@ C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\Nate
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Debug\netcoreapp2.2\NateONMessageArrangging.runtimeconfig.dev.json
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Debug\netcoreapp2.2\NateONMessageArrangging.dll
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Debug\netcoreapp2.2\NateONMessageArrangging.pdb
-C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Debug\netcoreapp2.2\NateONMessageArrangging.csprojAssemblyReference.cache
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Debug\netcoreapp2.2\NateONMessageArrangging.csproj.CoreCompileInputs.cache
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Debug\netcoreapp2.2\NateONMessageArrangging.AssemblyInfoInputs.cache
 C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Debug\netcoreapp2.2\NateONMessageArrangging.AssemblyInfo.cs
