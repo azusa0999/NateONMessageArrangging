@@ -1,0 +1,7 @@
+﻿TagetFilePath=C:\대화영구보관함_20191002.txt
+DateTimeFormat=yyyy-MM-dd hh:mm:ss
+TalkLastLineDelimiter=--------------------------------------------------------------------------
+TalkerNameFirstString=대화상대 : 
+MyName=현정경
+FirstNameInputString= >>>> 
+DivisionNameORTalk=0//파일 저장 시 0 : 이름별로, 1 : 대화별로

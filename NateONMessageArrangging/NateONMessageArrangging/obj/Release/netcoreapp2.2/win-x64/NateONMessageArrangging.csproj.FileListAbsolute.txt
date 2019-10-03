@@ -1,0 +1,12 @@
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.exe
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\config.txt
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.deps.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.runtimeconfig.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.runtimeconfig.dev.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.dll
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.pdb
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.csproj.CoreCompileInputs.cache
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.AssemblyInfoInputs.cache
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.AssemblyInfo.cs
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.dll
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\win-x64\NateONMessageArrangging.pdb

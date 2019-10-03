@@ -1,0 +1,11 @@
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\config.txt
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\NateONMessageArrangging.deps.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\NateONMessageArrangging.runtimeconfig.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\NateONMessageArrangging.runtimeconfig.dev.json
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\NateONMessageArrangging.dll
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\bin\Release\netcoreapp2.2\NateONMessageArrangging.pdb
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\NateONMessageArrangging.csproj.CoreCompileInputs.cache
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\NateONMessageArrangging.AssemblyInfoInputs.cache
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\NateONMessageArrangging.AssemblyInfo.cs
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\NateONMessageArrangging.dll
+C:\Users\aiki6\source\repos\NateONMessageArrangging\NateONMessageArrangging\NateONMessageArrangging\obj\Release\netcoreapp2.2\NateONMessageArrangging.pdb
