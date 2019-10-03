@@ -11,4 +11,6 @@
 4. NateONMessageArrangging.exe를 실행하십시오.
 5. 분류되어 저장되는 폴더는 실행파일이 있는 쪽에 생성됩니다.
 
+- .NET Core 2.2로 개발했습니다. 관련 지원되는 OS에 대해서는 https://docs.microsoft.com/ko-kr/dotnet/core/linux-prerequisites?tabs=netcore22 를 참고하세요. 다만 Windows 10 64bit 외에는 테스트되지 못했음을 알려드립니다.
+
 자세한 내용은 저의 블로그 https://jobmg.info/archives/3659 를 확인하시면 될 듯 합니다.
